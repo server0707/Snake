@@ -1,0 +1,11 @@
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\bin\Debug\SnakeCsharp.exe.config
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\bin\Debug\SnakeCsharp.exe
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\bin\Debug\SnakeCsharp.pdb
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.Form1.resources
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.Properties.Resources.resources
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.csproj.GenerateResource.Cache
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.exe
+C:\Users\Абдулла\Documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.pdb
+F:\55555\documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\bin\Debug\SnakeCsharp.exe.config
+F:\55555\documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.exe
+F:\55555\documents\Visual Studio 2012\Projects\SnakeCsharp\SnakeCsharp\obj\Debug\SnakeCsharp.pdb
